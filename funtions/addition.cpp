@@ -14,4 +14,4 @@ int main()
     int ans = addnum(x, y);
     cout << "The sum of the two number: " << ans << endl;
     return 0;
-}
+} 
