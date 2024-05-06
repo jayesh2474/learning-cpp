@@ -6,7 +6,7 @@ class multi
     private:
     int a,b;
     int ans;
-
+ 
     public:
     multi(int x, int y)
     {
