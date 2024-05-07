@@ -7,7 +7,7 @@ int main()
     std::string z = "Hello, world!";
 
     void *void_ptr;
-
+ 
     void_ptr = &x;
     std::cout << "int value: " << *(static_cast<int *>(void_ptr)) << std::endl;
 
